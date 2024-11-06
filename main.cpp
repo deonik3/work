@@ -1,6 +1,5 @@
 #include <iostream>
 #include "classMatrix.hpp"
-#include "matrix.hpp"
 int main()
 {
   size_t rows = 0, columns = 0;

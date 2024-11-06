@@ -1,6 +1,6 @@
 #ifndef CLASSMATRIX_HPP
 #define CLASSMATRIX_HPP
-#include <fstream>
+#include <iostream>
 class Matrix
 {
   size_t rows, columns;
